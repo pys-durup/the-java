@@ -1,4 +1,4 @@
-package thejava.interfaceclass;
+package thejava.interfaceclass.class_1;
 
 public interface Foo {
 
